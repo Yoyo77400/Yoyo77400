@@ -1,6 +1,6 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=140&section=header&text=Yohan%20-%20Blockchain%20Dev&fontSize=36&fontColor=white" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yohan&section=header&reversal=false&textBg=false&fontAlign=50&animation=scaleIn" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hello, moi c'est Yohan (aka Yoyo)</h1>
