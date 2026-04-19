@@ -5,6 +5,7 @@
 
 <h1 align="center">👋 Hello, moi c'est Yohan (aka Yoyo)</h1>
 <h3 align="center">Développeur Blockchain & Web3 - Paris, France</h3>
+<h3 align="center"><a href="https://yohan-georgelin.fr/" target="_blank">Mon Portfolio</a></h3>
 
 ---
 
@@ -56,7 +57,6 @@ Fort d’<b>1 an d’expérience en alternance</b> et d’une passion inépuisab
 ## 🎯 Me contacter
 
 - **LinkedIn:** [linkedin.com/in/yohan-georgelin](https://www.linkedin.com/in/yohan-georgelin/)
-- **Mon Portfolio:** [Yohan Georgelin Portfolio](https://yohan-georgelin.fr/)
 
 ---
 
