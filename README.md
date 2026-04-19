@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hello, moi c'est Yohan (aka Yoyo)</h1>
 <h3 align="center">Développeur Blockchain & Web3 - Paris, France</h3>
-<h3 align="center"><a href="https://yohan-georgelin.fr/" target="_blank">Mon Portfolio</a></h3>
+<h3 align="center"><a href="https://yohan-georgelin.fr/" target="_blank" >Mon Portfolio</a></h3>
 
 ---
 
