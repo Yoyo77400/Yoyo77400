@@ -55,7 +55,8 @@ Fort d’<b>1 an d’expérience en alternance</b> et d’une passion inépuisab
 
 ## 🎯 Me contacter
 
-- **LinkedIn:** [linkedin.com/in/yohan-georgelin]([https://www.linkedin.com/](https://www.linkedin.com/in/yohan-georgelin/)) <!-- Modifie l'URL -->
+- **LinkedIn:** [linkedin.com/in/yohan-georgelin](https://www.linkedin.com/in/yohan-georgelin/)
+- **Mon Portfolio:** [Yohan Georgelin Portfolio](https://yohan-georgelin.fr/)
 
 ---
 
